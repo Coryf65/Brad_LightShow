@@ -1,3 +1,3 @@
 # Brad_LightShow
 
-[Setup Notes](~/Setup.md)
+[Setup Notes](/Setup.md)
