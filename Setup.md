@@ -4,6 +4,8 @@ PC talks to Controller then controller talks to the lights
 
 Video Series that helps teach the basics [Learn Christmas Lighting](https://www.youtube.com/channel/UCXVmdAdDtjZrvZVEIbfaZCg)
 
+Keith a Developer, [Youtube Tutorials](https://www.youtube.com/channel/UCVOKeP2mWsBEKqqHkT0QndQ/videos)
+
 ## Lights
 
 - Use LED Strings - Most common:.0 WS2811 Protocol Which is based on LED type
