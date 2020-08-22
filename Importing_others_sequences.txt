@@ -62,3 +62,21 @@ then we need to import effects
 import the others effects and move the house to everything
 
 
+match your models to the imported models to import
+
+
+save mapping, save to our map file
+
+then ok 
+
+then hit save and play to see our new imported items
+
+watch the playback and add in some effects or watch for dead areas
+
+think about where to add
+
+To Test a sequence
+
+connect the laptop to the controller with ethernet plug in all
+
+click Tools click Test, there is a test button on the controller as well
