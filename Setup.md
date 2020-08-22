@@ -50,7 +50,7 @@ Store that sells Kits, [Holiday Coro](https://Holidaycoro.com)
 **Strand** : String of LED RGB Lights
     each strand has 50 pixels which comes to be 3 E1.31 Channels
 
-**Universe** : Contains Channels, max of ~510 Channels in one Universe
+**Universe** : Contains Channels, max of ~510 Channels in one Universe, just for the control signal
 
 Rules:
 3 Channels = 1 Pixel
@@ -62,3 +62,6 @@ Up to 6 Universes = 1 Output
 **DMX Decoders** : RGB LED's, whole strands
 
 **Pixel Controllers** : Smart pixel light controllers
+
+
+

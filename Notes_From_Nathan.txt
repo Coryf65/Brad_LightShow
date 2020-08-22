@@ -1,0 +1,36 @@
+notes from call with Nathan
+
+6 archs 6 candy canes some snowflakes = one controller
+
+Falcon Controllers = 16 channels
+
+F16 for house 
+F16 garage
+F16 lawn items
+
+spiral tree prop tree prop 360 degree around , 1 strand, 3 wraps
+
+controller placement
+    in the garage
+
+25 feet of ribbon in length max
+
+pixel strips
+
+    poly line options
+    change string props, string types
+
+
+    100 pixels per output 350W power supply
+
+
+flaconpi player, upload sequence to pi
+
+channels setup the start and end, 16 output = 16 unierses
+
+
+one output per controller and one universe in a controller '
+
+1 f16 = 1 -> 16
+
+2 f16 = 17 -> 23

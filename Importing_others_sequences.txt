@@ -1,0 +1,61 @@
+- Using others sequences
+
+Controllers
+
+change TEMP, xlights, others sequences,  open one 
+
+if layout is empty the we need to pick a different Controllers,
+restore perm and NO 
+
+we are looking for an XML file that will contain the xlights data
+
+once you find one you like 
+
+goto open and open the .XML file from the Sequence
+
+Then it asks for the Audio file open the audio file click done
+
+SAVE at the toolbar
+
+looking at the layer number next to the everything
+
+restore perm click no 
+
+we want to use our Controllers
+
+now into sequence, click new
+
+Musical Sequence - with music 
+
+Animations - only looks no music
+
+choose music 
+
+
+click done
+
+
+setup scene
+
+now we are adding our models
+
+right click edit display models
+
+import the Groups it has the image to the left 
+
+click the arrow to move into our collection
+
+we move the 'Everything' to the top 
+
+grouping like things together
+
+now after importing we need to match the layers with the same numbers
+if 'Everything' had 5 we need to do 5
+
+then we need to Save and put it into our sequences file
+
+name it something useful
+
+
+then we need to import effects
+
