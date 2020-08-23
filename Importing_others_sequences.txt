@@ -31,13 +31,23 @@ Animations - only looks no music
 
 choose music 
 
-
 click done
-
 
 setup scene
 
 now we are adding our models
+
+We are going back to Controllers
+
+create a new sequence, open a sequence and click Save
+
+back to controller click Restore to Permenant, click no no
+
+Save 
+
+Go to Sequencer 
+
+Open the other persons sequence .xsq Not ours 
 
 right click edit display models
 
